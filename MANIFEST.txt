@@ -1,0 +1,13 @@
+D O T Discord Bot export
+
+Included:
+- src/dot-discord-bot.ts
+- package.json
+- tsconfig.json
+- .env.example
+- README.md
+
+Not included:
+- DISCORD_TOKEN or any other secret
+- node_modules
+- generated build files
